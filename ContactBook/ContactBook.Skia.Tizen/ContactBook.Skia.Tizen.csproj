@@ -1,0 +1,35 @@
+<Project Sdk="Tizen.NET.Sdk/1.1.6">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>tizen50</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <DefineConstants>$(DefineConstants);__TIZEN__;</DefineConstants>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="lib\" />
+    <Folder Include="res\" />
+  </ItemGroup>
+  <ItemGroup Condition="exists('..\ContactBook.UWP')">
+    <EmbeddedResource Include="..\ContactBook.UWP\Package.appxmanifest" LogicalName="Package.appxmanifest" />
+    <Content Include="..\ContactBook.UWP\Assets\StoreLogo.png" Link="Assets\StoreLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <UpToDateCheckInput Include="..\ContactBook.Shared\**\*.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
+    <PackageReference Include="SkiaSharp.Views" Version="2.88.3" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+    <PackageReference Include="SQLitePCLRaw.bundle_e_sqlite3" Version="2.1.3" />
+    <PackageReference Include="SQLitePCLRaw.lib.e_sqlite3" Version="2.1.3" />
+    <PackageReference Include="Uno.Cupertino" Version="2.3.0" />
+    <PackageReference Include="Uno.Material" Version="2.3.0" />
+    <PackageReference Include="Uno.SQLitePCLRaw.provider.wasm" Version="3.1.1" />
+    <PackageReference Include="Uno.UI.Skia.Tizen" Version="4.6.19" />
+    <PackageReference Include="Uno.UI.RemoteControl" Version="4.6.19" Condition="'$(Configuration)'=='Debug'" />
+    <PackageReference Include="Uno.UI.Adapter.Microsoft.Extensions.Logging" Version="4.6.19" />
+  </ItemGroup>
+  <Import Project="..\ContactBook.Shared\ContactBook.Shared.projitems" Label="Shared" />
+</Project>

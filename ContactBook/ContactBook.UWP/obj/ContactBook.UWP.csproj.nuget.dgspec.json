@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.UWP\\ContactBook.UWP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.UWP\\ContactBook.UWP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.UWP\\ContactBook.UWP.csproj",
+        "projectName": "ContactBook",
+        "projectPath": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.UWP\\ContactBook.UWP.csproj",
+        "packagesPath": "C:\\Users\\automatiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.UWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\automatiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Projects\\nuget\\Library": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.11, )"
+            },
+            "Microsoft.UI.Xaml": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Uno.Core.Extensions.Logging.Singleton": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Uno.Cupertino": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Uno.Material": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Uno.SQLitePCLRaw.provider.wasm": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[4.6.19, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

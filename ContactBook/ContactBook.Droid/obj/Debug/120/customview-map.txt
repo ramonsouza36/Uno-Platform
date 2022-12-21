@@ -1,0 +1,13 @@
+attr;C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Droid\obj\Debug\120\lp\8\jl\res\values\attrs.xml
+declare-styleable;C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Droid\obj\Debug\120\lp\8\jl\res\values\attrs.xml
+item;C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Droid\obj\Debug\120\lp\8\jl\res\values\styles.xml
+item;obj\Debug\120\res\values\styles.xml
+resources;C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Droid\obj\Debug\120\lp\8\jl\res\values\attrs.xml
+resources;C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Droid\obj\Debug\120\lp\8\jl\res\values\styles.xml
+resources;obj\Debug\120\res\values\resources_resw-strings.xml
+resources;obj\Debug\120\res\values\strings.xml
+resources;obj\Debug\120\res\values\styles.xml
+string;obj\Debug\120\res\values\resources_resw-strings.xml
+string;obj\Debug\120\res\values\strings.xml
+style;C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Droid\obj\Debug\120\lp\8\jl\res\values\styles.xml
+style;obj\Debug\120\res\values\styles.xml

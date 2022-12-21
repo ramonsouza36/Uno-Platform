@@ -1,0 +1,6 @@
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Wasm\obj\Debug\net5.0\ContactBook.Wasm.csproj.AssemblyReference.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Wasm\obj\Debug\net5.0\ContactBook.Wasm.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Wasm\obj\Debug\net5.0\ContactBook.Wasm.AssemblyInfoInputs.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Wasm\obj\Debug\net5.0\ContactBook.Wasm.AssemblyInfo.cs
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Wasm\obj\Debug\net5.0\ContactBook.Wasm.csproj.CoreCompileInputs.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Wasm\obj\Debug\net5.0\ContactBook.Wasm.MvcApplicationPartsAssemblyInfo.cache

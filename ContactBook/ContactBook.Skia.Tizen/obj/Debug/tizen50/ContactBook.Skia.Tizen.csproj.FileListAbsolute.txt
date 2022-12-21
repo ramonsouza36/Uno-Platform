@@ -1,0 +1,5 @@
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Tizen\obj\Debug\tizen50\ContactBook.Skia.Tizen.csproj.AssemblyReference.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Tizen\obj\Debug\tizen50\ContactBook.Skia.Tizen.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Tizen\obj\Debug\tizen50\ContactBook.Skia.Tizen.AssemblyInfoInputs.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Tizen\obj\Debug\tizen50\ContactBook.Skia.Tizen.AssemblyInfo.cs
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Tizen\obj\Debug\tizen50\ContactBook.Skia.Tizen.csproj.CoreCompileInputs.cache

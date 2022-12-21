@@ -1,0 +1,5 @@
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf\obj\Debug\netstandard2.0\ContactBook.Skia.Wpf.csproj.AssemblyReference.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf\obj\Debug\netstandard2.0\ContactBook.Skia.Wpf.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf\obj\Debug\netstandard2.0\ContactBook.Skia.Wpf.AssemblyInfoInputs.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf\obj\Debug\netstandard2.0\ContactBook.Skia.Wpf.AssemblyInfo.cs
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf\obj\Debug\netstandard2.0\ContactBook.Skia.Wpf.csproj.CoreCompileInputs.cache

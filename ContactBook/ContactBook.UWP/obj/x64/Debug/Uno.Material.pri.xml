@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Uno.Material" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Uno.Material">
+				<NamedResource name="Uno.Material.xr.xml" uri="ms-resource://Uno.Material/Files/Uno.Material/Uno.Material.xr.xml">
+					<Candidate type="Path">
+						<Value>Uno.Material\Uno.Material.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assets">
+					<NamedResource name="MaterialDeterminate.json" uri="ms-resource://Uno.Material/Files/Uno.Material/Assets/MaterialDeterminate.json">
+						<Candidate type="Path">
+							<Value>Uno.Material\Assets\MaterialDeterminate.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MaterialIndeterminate.json" uri="ms-resource://Uno.Material/Files/Uno.Material/Assets/MaterialIndeterminate.json">
+						<Candidate type="Path">
+							<Value>Uno.Material\Assets\MaterialIndeterminate.json</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="build">
+					<NamedResource name="Uno.Material.targets" uri="ms-resource://Uno.Material/Files/Uno.Material/build/Uno.Material.targets">
+						<Candidate type="Path">
+							<Value>Uno.Material\build\Uno.Material.targets</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Generated">
+					<NamedResource name="mergedpages.v1.xbf" uri="ms-resource://Uno.Material/Files/Uno.Material/Generated/mergedpages.v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mergedpages.v2.xbf" uri="ms-resource://Uno.Material/Files/Uno.Material/Generated/mergedpages.v2.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Styles">
+					<ResourceMapSubtree name="Application">
+						<ResourceMapSubtree name="Common">
+							<NamedResource name="Fonts.xbf" uri="ms-resource://Uno.Material/Files/Uno.Material/Styles/Application/Common/Fonts.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="v1">
+							<NamedResource name="ColorPalette.xbf" uri="ms-resource://Uno.Material/Files/Uno.Material/Styles/Application/v1/ColorPalette.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="MaterialColors.xbf" uri="ms-resource://Uno.Material/Files/Uno.Material/Styles/Application/v1/MaterialColors.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="v2">
+							<NamedResource name="SharedColorPalette.xbf" uri="ms-resource://Uno.Material/Files/Uno.Material/Styles/Application/v2/SharedColorPalette.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="SharedColors.xbf" uri="ms-resource://Uno.Material/Files/Uno.Material/Styles/Application/v2/SharedColors.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

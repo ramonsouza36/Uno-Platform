@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="bf01f473-2130-4762-b478-92c58874c4c9" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN</Language>
+			<Scale>200</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ContactBook.xr.xml" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/ContactBook.xr.xml">
+				<Candidate type="Path">
+					<Value>ContactBook.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.UI.Xaml">
+				<ResourceMapSubtree name="DensityStyles">
+					<NamedResource name="Compact.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Microsoft.UI.Xaml/DensityStyles/Compact.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Uno.Cupertino">
+				<NamedResource name="Uno.Cupertino.xr.xml" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Uno.Cupertino.xr.xml">
+					<Candidate type="Path">
+						<Value>Uno.Cupertino\Uno.Cupertino.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assets">
+					<NamedResource name="CupertinoProgressRing.json" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Assets/CupertinoProgressRing.json">
+						<Candidate type="Path">
+							<Value>Uno.Cupertino\Assets\CupertinoProgressRing.json</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="build">
+					<NamedResource name="Uno.Cupertino.targets" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/build/Uno.Cupertino.targets">
+						<Candidate type="Path">
+							<Value>Uno.Cupertino\build\Uno.Cupertino.targets</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Generated">
+					<NamedResource name="mergedpages.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Generated/mergedpages.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Styles">
+					<ResourceMapSubtree name="Application">
+						<NamedResource name="AnimationConstants.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Styles/Application/AnimationConstants.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ColorPalette.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Styles/Application/ColorPalette.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Converters.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Styles/Application/Converters.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="CupertinoColors.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Styles/Application/CupertinoColors.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Fonts.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Styles/Application/Fonts.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="StateConstants.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Cupertino/Styles/Application/StateConstants.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Uno.Material">
+				<NamedResource name="Uno.Material.xr.xml" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Uno.Material.xr.xml">
+					<Candidate type="Path">
+						<Value>Uno.Material\Uno.Material.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assets">
+					<NamedResource name="MaterialDeterminate.json" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Assets/MaterialDeterminate.json">
+						<Candidate type="Path">
+							<Value>Uno.Material\Assets\MaterialDeterminate.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MaterialIndeterminate.json" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Assets/MaterialIndeterminate.json">
+						<Candidate type="Path">
+							<Value>Uno.Material\Assets\MaterialIndeterminate.json</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="build">
+					<NamedResource name="Uno.Material.targets" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/build/Uno.Material.targets">
+						<Candidate type="Path">
+							<Value>Uno.Material\build\Uno.Material.targets</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Generated">
+					<NamedResource name="mergedpages.v1.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Generated/mergedpages.v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mergedpages.v2.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Generated/mergedpages.v2.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Styles">
+					<ResourceMapSubtree name="Application">
+						<ResourceMapSubtree name="Common">
+							<NamedResource name="Fonts.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Styles/Application/Common/Fonts.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="v1">
+							<NamedResource name="ColorPalette.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Styles/Application/v1/ColorPalette.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="MaterialColors.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Styles/Application/v1/MaterialColors.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="v2">
+							<NamedResource name="SharedColorPalette.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Styles/Application/v2/SharedColorPalette.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="SharedColors.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.Material/Styles/Application/v2/SharedColors.xbf">
+								<Candidate type="EmbeddedData">
+									<Base64Value>[Embedded Binary Data]</Base64Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Uno.UI.Toolkit">
+				<NamedResource name="Uno.UI.Toolkit.xr.xml" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.UI.Toolkit/Uno.UI.Toolkit.xr.xml">
+					<Candidate type="Path">
+						<Value>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Uno.UI.Toolkit/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="AddPersonPage.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Views/AddPersonPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EditPersonPage.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Views/EditPersonPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ListPersonPage.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Views/ListPersonPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MainPage.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Views/MainPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Styles">
+					<NamedResource name="DictionaryStyles.xbf" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/Views/Styles/DictionaryStyles.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR">
+			<NamedResource name="AmbiguousConstructorMatch" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR/AmbiguousConstructorMatch">
+				<Candidate type="String">
+					<Value>Multiple constructors accepting all given argument types have been found in type '{0}'. There should only be one applicable constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotResolveService" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR/CannotResolveService">
+				<Candidate type="String">
+					<Value>Unable to resolve service for type '{0}' while attempting to activate '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoConstructorMatch" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR/NoConstructorMatch">
+				<Candidate type="String">
+					<Value>A suitable constructor for type '{0}' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoServiceRegistered" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR/NoServiceRegistered">
+				<Candidate type="String">
+					<Value>No service for type '{0}' has been registered.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServiceCollectionReadOnly" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR/ServiceCollectionReadOnly">
+				<Candidate type="String">
+					<Value>The service collection cannot be modified because it is read-only.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TryAddIndistinguishableTypeToEnumerable" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR/TryAddIndistinguishableTypeToEnumerable">
+				<Candidate type="String">
+					<Value>Implementation type cannot be '{0}' because it is indistinguishable from other services registered for '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Extensions.DependencyInjection.SR">
+			<NamedResource name="AmbiguousConstructorException" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/AmbiguousConstructorException">
+				<Candidate type="String">
+					<Value>Unable to activate type '{0}'. The following constructors are ambiguous:</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ArityOfOpenGenericServiceNotEqualArityOfOpenGenericImplementation" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/ArityOfOpenGenericServiceNotEqualArityOfOpenGenericImplementation">
+				<Candidate type="String">
+					<Value>Arity of open generic service type '{0}' does not equal arity of open generic implementation type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AsyncDisposableServiceDispose" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/AsyncDisposableServiceDispose">
+				<Candidate type="String">
+					<Value>'{0}' type only implements IAsyncDisposable. Use DisposeAsync to dispose the container.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CallSiteTypeNotSupported" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/CallSiteTypeNotSupported">
+				<Candidate type="String">
+					<Value>Call site type {0} is not supported</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotResolveService" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/CannotResolveService">
+				<Candidate type="String">
+					<Value>Unable to resolve service for type '{0}' while attempting to activate '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CircularDependencyException" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/CircularDependencyException">
+				<Candidate type="String">
+					<Value>A circular dependency was detected for the service of type '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConstantCantBeConvertedToServiceType" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/ConstantCantBeConvertedToServiceType">
+				<Candidate type="String">
+					<Value>Constant value of type '{0}' can't be converted to service type '{1}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DirectScopedResolvedFromRootException" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/DirectScopedResolvedFromRootException">
+				<Candidate type="String">
+					<Value>Cannot resolve {1} service '{0}' from root provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GetCaptureDisposableNotSupported" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/GetCaptureDisposableNotSupported">
+				<Candidate type="String">
+					<Value>GetCaptureDisposable call is supported only for main scope</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ImplementationTypeCantBeConvertedToServiceType" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/ImplementationTypeCantBeConvertedToServiceType">
+				<Candidate type="String">
+					<Value>Implementation type '{0}' can't be converted to service type '{1}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidServiceDescriptor" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/InvalidServiceDescriptor">
+				<Candidate type="String">
+					<Value>Invalid service descriptor</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoConstructorMatch" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/NoConstructorMatch">
+				<Candidate type="String">
+					<Value>A suitable constructor for type '{0}' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OpenGenericServiceRequiresOpenGenericImplementation" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/OpenGenericServiceRequiresOpenGenericImplementation">
+				<Candidate type="String">
+					<Value>Open generic service type '{0}' requires registering an open generic implementation type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ScopedInSingletonException" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/ScopedInSingletonException">
+				<Candidate type="String">
+					<Value>Cannot consume {2} service '{0}' from {3} '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ScopedResolvedFromRootException" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/ScopedResolvedFromRootException">
+				<Candidate type="String">
+					<Value>Cannot resolve '{0}' from root provider because it requires {2} service '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ServiceDescriptorNotExist" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/ServiceDescriptorNotExist">
+				<Candidate type="String">
+					<Value>Requested service descriptor doesn't exist.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TrimmingAnnotationsDoNotMatch" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/TrimmingAnnotationsDoNotMatch">
+				<Candidate type="String">
+					<Value>Generic implementation type '{0}' has a DynamicallyAccessedMembers attribute applied to a generic argument type, but the service type '{1}' doesn't have a matching DynamicallyAccessedMembers attribute on its generic argument type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TrimmingAnnotationsDoNotMatch_NewConstraint" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/TrimmingAnnotationsDoNotMatch_NewConstraint">
+				<Candidate type="String">
+					<Value>Generic implementation type '{0}' has a DefaultConstructorConstraint ('new()' constraint), but the generic service type '{1}' doesn't.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeCannotBeActivated" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/TypeCannotBeActivated">
+				<Candidate type="String">
+					<Value>Cannot instantiate implementation type '{0}' for service type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToActivateTypeException" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.DependencyInjection.SR/UnableToActivateTypeException">
+				<Candidate type="String">
+					<Value>No constructor for type '{0}' can be instantiated using services from the service container and default values.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Extensions.Logging.Abstractions.SR">
+			<NamedResource name="UnexpectedNumberOfNamedParameters" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Logging.Abstractions.SR/UnexpectedNumberOfNamedParameters">
+				<Candidate type="String">
+					<Value>The format string '{0}' does not have the expected number of named parameters. Expected {1} parameter(s) but found {2} parameter(s).</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Extensions.Logging.SR">
+			<NamedResource name="InvalidActivityTrackingOptions" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Logging.SR/InvalidActivityTrackingOptions">
+				<Candidate type="String">
+					<Value>{0} is invalid ActivityTrackingOptions value.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Extensions.Options.SR">
+			<NamedResource name="Error_CannotActivateAbstractOrInterface" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Options.SR/Error_CannotActivateAbstractOrInterface">
+				<Candidate type="String">
+					<Value>Cannot create instance of type '{0}' because it is either abstract or an interface.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_FailedBinding" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Options.SR/Error_FailedBinding">
+				<Candidate type="String">
+					<Value>Failed to convert '{0}' to type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_FailedToActivate" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Options.SR/Error_FailedToActivate">
+				<Candidate type="String">
+					<Value>Failed to create instance of type '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_MissingParameterlessConstructor" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Options.SR/Error_MissingParameterlessConstructor">
+				<Candidate type="String">
+					<Value>Cannot create instance of type '{0}' because it is missing a public parameterless constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_NoConfigurationServices" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Options.SR/Error_NoConfigurationServices">
+				<Candidate type="String">
+					<Value>No IConfigureOptions&lt;&gt;, IPostConfigureOptions&lt;&gt;, or IValidateOptions&lt;&gt; implementations were found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_NoConfigurationServicesAndAction" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Options.SR/Error_NoConfigurationServicesAndAction">
+				<Candidate type="String">
+					<Value>No IConfigureOptions&lt;&gt;, IPostConfigureOptions&lt;&gt;, or IValidateOptions&lt;&gt; implementations were found, did you mean to call Configure&lt;&gt; or PostConfigure&lt;&gt;?</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.Microsoft.Extensions.Primitives.SR">
+			<NamedResource name="Argument_InvalidOffsetLength" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Primitives.SR/Argument_InvalidOffsetLength">
+				<Candidate type="String">
+					<Value>Offset and length are out of bounds for the string or length is greater than the number of characters from index to the end of the string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Argument_InvalidOffsetLengthStringSegment" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Primitives.SR/Argument_InvalidOffsetLengthStringSegment">
+				<Candidate type="String">
+					<Value>Offset and length are out of bounds for this StringSegment or length is greater than the number of characters to the end of this StringSegment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Capacity_CannotChangeAfterWriteStarted" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Primitives.SR/Capacity_CannotChangeAfterWriteStarted">
+				<Candidate type="String">
+					<Value>Cannot change capacity after write started.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Capacity_NotEnough" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Primitives.SR/Capacity_NotEnough">
+				<Candidate type="String">
+					<Value>Not enough capacity to write '{0}' characters, only '{1}' left.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Capacity_NotUsedEntirely" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.Microsoft.Extensions.Primitives.SR/Capacity_NotUsedEntirely">
+				<Candidate type="String">
+					<Value>Entire reserved capacity was not used. Capacity: '{0}', written '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Diagnostics.DiagnosticSource.SR">
+			<NamedResource name="ActivityIdFormatInvalid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/ActivityIdFormatInvalid">
+				<Candidate type="String">
+					<Value>"Value must be a valid ActivityIdFormat value"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ActivityNotRunning" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/ActivityNotRunning">
+				<Candidate type="String">
+					<Value>Trying to set an Activity that is not running</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ActivityNotStarted" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/ActivityNotStarted">
+				<Candidate type="String">
+					<Value>"Can not stop an Activity that was not started"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ActivityStartAlreadyStarted" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/ActivityStartAlreadyStarted">
+				<Candidate type="String">
+					<Value>"Can not start an Activity that was already started"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EndTimeNotUtc" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/EndTimeNotUtc">
+				<Candidate type="String">
+					<Value>"EndTime is not UTC"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidTraceParent" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/InvalidTraceParent">
+				<Candidate type="String">
+					<Value>"Invalid trace parent."</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyAlreadyExist" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/KeyAlreadyExist">
+				<Candidate type="String">
+					<Value>"The collection already contains item with same key '{0}''"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OperationNameInvalid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/OperationNameInvalid">
+				<Candidate type="String">
+					<Value>"OperationName must not be null or empty"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParentIdAlreadySet" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/ParentIdAlreadySet">
+				<Candidate type="String">
+					<Value>"ParentId is already set"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParentIdInvalid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/ParentIdInvalid">
+				<Candidate type="String">
+					<Value>"ParentId must not be null or empty"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SetFormatOnStartedActivity" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/SetFormatOnStartedActivity">
+				<Candidate type="String">
+					<Value>"Can not change format for an activity that was already started"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SetLinkInvalid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/SetLinkInvalid">
+				<Candidate type="String">
+					<Value>"Can not add link to activity after it has been started"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SetParentIdOnActivityWithParent" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/SetParentIdOnActivityWithParent">
+				<Candidate type="String">
+					<Value>"Can not set ParentId on activity which has parent"</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StartTimeNotUtc" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Diagnostics.DiagnosticSource.SR/StartTimeNotUtc">
+				<Candidate type="String">
+					<Value>"StartTime is not UTC"</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Text.Json.SR">
+			<NamedResource name="ArrayDepthTooLarge" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ArrayDepthTooLarge">
+				<Candidate type="String">
+					<Value>The maximum configured depth of {0} has been exceeded. Cannot read next JSON array.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BufferWriterAdvancedTooFar" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/BufferWriterAdvancedTooFar">
+				<Candidate type="String">
+					<Value>Cannot advance past the end of the buffer, which has a size of {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CallFlushToAvoidDataLoss" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CallFlushToAvoidDataLoss">
+				<Candidate type="String">
+					<Value>The JSON writer needs to be flushed before getting the current state. There are {0} bytes that have not been committed to the output.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotDecodeInvalidBase64" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotDecodeInvalidBase64">
+				<Candidate type="String">
+					<Value>Cannot decode JSON text that is not encoded as valid Base64 to bytes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotEncodeInvalidUTF16" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotEncodeInvalidUTF16">
+				<Candidate type="String">
+					<Value>Cannot encode invalid UTF-16 text as JSON. Invalid surrogate value: '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotEncodeInvalidUTF8" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotEncodeInvalidUTF8">
+				<Candidate type="String">
+					<Value>Cannot encode invalid UTF-8 text as JSON. Invalid input: '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotReadIncompleteUTF16" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotReadIncompleteUTF16">
+				<Candidate type="String">
+					<Value>Cannot read incomplete UTF-16 JSON text as string with missing low surrogate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotReadInvalidUTF16" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotReadInvalidUTF16">
+				<Candidate type="String">
+					<Value>Cannot read invalid UTF-16 JSON text as string. Invalid surrogate value: '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotSkip" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotSkip">
+				<Candidate type="String">
+					<Value>Cannot skip tokens on partial JSON. Either get the whole payload and create a Utf8JsonReader instance where isFinalBlock is true or call TrySkip.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotStartObjectArrayAfterPrimitiveOrClose" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotStartObjectArrayAfterPrimitiveOrClose">
+				<Candidate type="String">
+					<Value>Cannot write the start of an object/array after a single JSON value or outside of an existing closed object/array. Current token type is '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotStartObjectArrayWithoutProperty" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotStartObjectArrayWithoutProperty">
+				<Candidate type="String">
+					<Value>Cannot write the start of an object or array without a property name. Current token type is '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotTranscodeInvalidUtf16" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotTranscodeInvalidUtf16">
+				<Candidate type="String">
+					<Value>Cannot transcode invalid UTF-16 string to UTF-8 JSON text.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotTranscodeInvalidUtf8" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotTranscodeInvalidUtf8">
+				<Candidate type="String">
+					<Value>Cannot transcode invalid UTF-8 JSON text to UTF-16 string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotWriteCommentWithEmbeddedDelimiter" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotWriteCommentWithEmbeddedDelimiter">
+				<Candidate type="String">
+					<Value>Cannot write a comment value which contains the end of comment delimiter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotWriteEndAfterProperty" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotWriteEndAfterProperty">
+				<Candidate type="String">
+					<Value>'{0}' is invalid following a property name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotWritePropertyAfterProperty" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotWritePropertyAfterProperty">
+				<Candidate type="String">
+					<Value>Cannot write a JSON property name following another property name. A JSON value is missing.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotWritePropertyWithinArray" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotWritePropertyWithinArray">
+				<Candidate type="String">
+					<Value>Cannot write a JSON property within an array or as the first JSON token. Current token type is '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotWriteValueAfterPrimitiveOrClose" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotWriteValueAfterPrimitiveOrClose">
+				<Candidate type="String">
+					<Value>Cannot write a JSON value after a single JSON value or outside of an existing closed object/array. Current token type is '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotWriteValueWithinObject" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CannotWriteValueWithinObject">
+				<Candidate type="String">
+					<Value>Cannot write a JSON value within an object without a property name. Current token type is '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CommentHandlingMustBeValid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/CommentHandlingMustBeValid">
+				<Candidate type="String">
+					<Value>The JsonCommentHandling enum must be set to one of the supported values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DepthTooLarge" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/DepthTooLarge">
+				<Candidate type="String">
+					<Value>CurrentDepth ({0}) is equal to or larger than the maximum allowed depth of {1}. Cannot write the next JSON object or array.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeserializeDuplicateKey" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/DeserializeDuplicateKey">
+				<Candidate type="String">
+					<Value>An item with the same property name '{0}' has already been added.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeserializeMissingParameterlessConstructor" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/DeserializeMissingParameterlessConstructor">
+				<Candidate type="String">
+					<Value>Deserialization of reference types without parameterless constructor is not supported. Type '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeserializePolymorphicInterface" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/DeserializePolymorphicInterface">
+				<Candidate type="String">
+					<Value>Deserialization of interface types is not supported. Type '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeserializeUnableToConvertValue" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/DeserializeUnableToConvertValue">
+				<Candidate type="String">
+					<Value>The JSON value could not be converted to {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeserializeWrongType" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/DeserializeWrongType">
+				<Candidate type="String">
+					<Value>The specified type {0} must derive from the specific value's type {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EmptyJsonIsInvalid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/EmptyJsonIsInvalid">
+				<Candidate type="String">
+					<Value>Writing an empty JSON payload (excluding comments) is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EndOfCommentNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/EndOfCommentNotFound">
+				<Candidate type="String">
+					<Value>Expected end of comment, but instead reached end of data.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EndOfStringNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/EndOfStringNotFound">
+				<Candidate type="String">
+					<Value>Expected end of string, but instead reached end of data.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedEndAfterSingleJson" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedEndAfterSingleJson">
+				<Candidate type="String">
+					<Value>'{0}' is invalid after a single JSON value. Expected end of data.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedEndOfDigitNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedEndOfDigitNotFound">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid end of a number. Expected a delimiter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedFalse" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedFalse">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid JSON literal. Expected the literal 'false'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedJsonTokens" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedJsonTokens">
+				<Candidate type="String">
+					<Value>The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedNextDigitEValueNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedNextDigitEValueNotFound">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid end of a number. Expected 'E' or 'e'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedNull" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedNull">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid JSON literal. Expected the literal 'null'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedOneCompleteToken" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedOneCompleteToken">
+				<Candidate type="String">
+					<Value>The input does not contain any complete JSON tokens. Expected the input to have at least one valid, complete, JSON token.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedSeparatorAfterPropertyNameNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedSeparatorAfterPropertyNameNotFound">
+				<Candidate type="String">
+					<Value>'{0}' is invalid after a property name. Expected a ':'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedStartOfPropertyNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedStartOfPropertyNotFound">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid start of a property name. Expected a '"'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedStartOfPropertyOrValueAfterComment" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedStartOfPropertyOrValueAfterComment">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid start of a property name or value, after a comment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedStartOfPropertyOrValueNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedStartOfPropertyOrValueNotFound">
+				<Candidate type="String">
+					<Value>Expected start of a property name or value, but instead reached end of data.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedStartOfValueNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedStartOfValueNotFound">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid start of a value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedTrue" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedTrue">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid JSON literal. Expected the literal 'true'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpectedValueAfterPropertyNameNotFound" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ExpectedValueAfterPropertyNameNotFound">
+				<Candidate type="String">
+					<Value>Expected a value, but instead reached end of data.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FailedToGetLargerSpan" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FailedToGetLargerSpan">
+				<Candidate type="String">
+					<Value>The 'IBufferWriter' could not provide an output buffer that is large enough to continue writing.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatByte" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatByte">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for an unsigned byte.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatDateTime" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatDateTime">
+				<Candidate type="String">
+					<Value>The JSON value is not in a supported DateTime format.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatDateTimeOffset" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatDateTimeOffset">
+				<Candidate type="String">
+					<Value>The JSON value is not in a supported DateTimeOffset format.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatDecimal" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatDecimal">
+				<Candidate type="String">
+					<Value>The JSON value is either too large or too small for a Decimal.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatDouble" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatDouble">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for a Double.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatGuid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatGuid">
+				<Candidate type="String">
+					<Value>The JSON value is not in a supported Guid format.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatInt16" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatInt16">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for an Int16.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatInt32" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatInt32">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for an Int32.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatInt64" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatInt64">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for an Int64.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatSByte" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatSByte">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for a signed byte.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatSingle" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatSingle">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for a Single.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatUInt16" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatUInt16">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for a UInt16.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatUInt32" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatUInt32">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for a UInt32.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FormatUInt64" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FormatUInt64">
+				<Candidate type="String">
+					<Value>Either the JSON value is not in a supported format, or is out of bounds for a UInt64.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FoundInvalidCharacter" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/FoundInvalidCharacter">
+				<Candidate type="String">
+					<Value>'{0}' is invalid after a value. Expected either ',', '}}', or ']'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCast" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/InvalidCast">
+				<Candidate type="String">
+					<Value>Cannot get the value of a token type '{0}' as a {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCharacterAfterEscapeWithinString" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/InvalidCharacterAfterEscapeWithinString">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid escapable character within a JSON string. The string should be correctly escaped.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCharacterAtStartOfComment" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/InvalidCharacterAtStartOfComment">
+				<Candidate type="String">
+					<Value>'{0}' is invalid after '/' at the beginning of the comment. Expected either '/' or '*'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCharacterWithinString" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/InvalidCharacterWithinString">
+				<Candidate type="String">
+					<Value>'{0}' is invalid within a JSON string. The string should be correctly escaped.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidComparison" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/InvalidComparison">
+				<Candidate type="String">
+					<Value>Cannot compare the value of a token type '{0}' to text.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidEndOfJsonNonPrimitive" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/InvalidEndOfJsonNonPrimitive">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid token type for the end of the JSON payload. Expected either 'EndArray' or 'EndObject'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidHexCharacterWithinString" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/InvalidHexCharacterWithinString">
+				<Candidate type="String">
+					<Value>'{0}' is not a hex digit following '\u' within a JSON string. The string should be correctly escaped.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="JsonDocumentDoesNotSupportComments" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/JsonDocumentDoesNotSupportComments">
+				<Candidate type="String">
+					<Value>Comments cannot be stored in a JsonDocument, only the Skip and Disallow comment handling modes are supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="JsonElementHasWrongType" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/JsonElementHasWrongType">
+				<Candidate type="String">
+					<Value>The requested operation requires an element of type '{0}', but the target element has type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="JsonSerializerDoesNotSupportComments" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/JsonSerializerDoesNotSupportComments">
+				<Candidate type="String">
+					<Value>Comments cannot be stored when deserializing objects, only the Skip and Disallow comment handling modes are supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MaxDepthMustBePositive" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/MaxDepthMustBePositive">
+				<Candidate type="String">
+					<Value>Max depth must be positive.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MismatchedObjectArray" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/MismatchedObjectArray">
+				<Candidate type="String">
+					<Value>'{0}' is invalid without a matching open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotEnoughData" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/NotEnoughData">
+				<Candidate type="String">
+					<Value>There is not enough data to read through the entire JSON array or object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObjectDepthTooLarge" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ObjectDepthTooLarge">
+				<Candidate type="String">
+					<Value>The maximum configured depth of {0} has been exceeded. Cannot read next JSON object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyNameTooLarge" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/PropertyNameTooLarge">
+				<Candidate type="String">
+					<Value>The JSON property name of length {0} is too large and not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RequiredDigitNotFoundAfterDecimal" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/RequiredDigitNotFoundAfterDecimal">
+				<Candidate type="String">
+					<Value>'{0}' is invalid within a number, immediately after a decimal point ('.'). Expected a digit ('0'-'9').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RequiredDigitNotFoundAfterSign" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/RequiredDigitNotFoundAfterSign">
+				<Candidate type="String">
+					<Value>'{0}' is invalid within a number, immediately after a sign character ('+' or '-'). Expected a digit ('0'-'9').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RequiredDigitNotFoundEndOfData" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/RequiredDigitNotFoundEndOfData">
+				<Candidate type="String">
+					<Value>Expected a digit ('0'-'9'), but instead reached end of data.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationConverterNotCompatible" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationConverterNotCompatible">
+				<Candidate type="String">
+					<Value>The converter '{0}' is not compatible with the type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationConverterOnAttributeInvalid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationConverterOnAttributeInvalid">
+				<Candidate type="String">
+					<Value>The converter specified on '{0}' does not derive from JsonConverter or have a public parameterless constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationConverterOnAttributeNotCompatible" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationConverterOnAttributeNotCompatible">
+				<Candidate type="String">
+					<Value>The converter specified on '{0}' is not compatible with the type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationConverterRead" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationConverterRead">
+				<Candidate type="String">
+					<Value>The converter '{0}' read too much or not enough.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationConverterWrite" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationConverterWrite">
+				<Candidate type="String">
+					<Value>The converter '{0}' wrote too much or not enough.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationDataExtensionPropertyInvalid" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationDataExtensionPropertyInvalid">
+				<Candidate type="String">
+					<Value>The data extension property '{0}.{1}' does not match the required signature of IDictionary&lt;string, JsonElement&gt; or IDictionary&lt;string, object&gt;.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationDuplicateAttribute" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationDuplicateAttribute">
+				<Candidate type="String">
+					<Value>The attribute '{0}' cannot exist more than once on '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationDuplicateTypeAttribute" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationDuplicateTypeAttribute">
+				<Candidate type="String">
+					<Value>The type '{0}' cannot have more than one property that has the attribute '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationInvalidBufferSize" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationInvalidBufferSize">
+				<Candidate type="String">
+					<Value>The value must be greater than zero.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationNotSupportedCollection" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationNotSupportedCollection">
+				<Candidate type="String">
+					<Value>The collection type '{0}' on '{1}' is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializationNotSupportedCollectionType" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializationNotSupportedCollectionType">
+				<Candidate type="String">
+					<Value>The collection type '{0}' is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializerCycleDetected" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializerCycleDetected">
+				<Candidate type="String">
+					<Value>A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializerDictionaryKeyNull" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializerDictionaryKeyNull">
+				<Candidate type="String">
+					<Value>The dictionary key policy '{0}' cannot return a null key.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializerOptionsImmutable" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializerOptionsImmutable">
+				<Candidate type="String">
+					<Value>Serializer options cannot be changed once serialization or deserialization has occurred.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializerPropertyNameConflict" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializerPropertyNameConflict">
+				<Candidate type="String">
+					<Value>The JSON property name for '{0}.{1}' collides with another property.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializerPropertyNameNull" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializerPropertyNameNull">
+				<Candidate type="String">
+					<Value>The JSON property name for '{0}.{1}' cannot be null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SerializeUnableToSerialize" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SerializeUnableToSerialize">
+				<Candidate type="String">
+					<Value>The object or value could not be serialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SpecialNumberValuesNotSupported" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/SpecialNumberValuesNotSupported">
+				<Candidate type="String">
+					<Value>.NET number values such as positive and negative infinity cannot be written as valid JSON.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamNotWritable" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/StreamNotWritable">
+				<Candidate type="String">
+					<Value>Stream is not writable.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TrailingCommaNotAllowedBeforeArrayEnd" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/TrailingCommaNotAllowedBeforeArrayEnd">
+				<Candidate type="String">
+					<Value>The JSON array contains a trailing comma at the end which is not supported in this mode. Change the reader options.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TrailingCommaNotAllowedBeforeObjectEnd" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/TrailingCommaNotAllowedBeforeObjectEnd">
+				<Candidate type="String">
+					<Value>The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnexpectedEndOfDataWhileReadingComment" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/UnexpectedEndOfDataWhileReadingComment">
+				<Candidate type="String">
+					<Value>Unexpected end of data while reading a comment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnexpectedEndOfLineSeparator" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/UnexpectedEndOfLineSeparator">
+				<Candidate type="String">
+					<Value>Found invalid line or paragraph separator character while reading a comment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueTooLarge" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ValueTooLarge">
+				<Candidate type="String">
+					<Value>The JSON value of length {0} is too large and not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ZeroDepthAtEnd" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/FxResources.System.Text.Json.SR/ZeroDepthAtEnd">
+				<Candidate type="String">
+					<Value>Expected depth to be zero at the end of the JSON payload. There is an open JSON object or array that should be closed.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="ApplicationName" uri="ms-resource://bf01f473-2130-4762-b478-92c58874c4c9/Resources/ApplicationName">
+				<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+					<Value>ContactBook</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

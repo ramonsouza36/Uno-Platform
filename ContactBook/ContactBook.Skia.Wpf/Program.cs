@@ -1,0 +1,3 @@
+﻿namespace ContactBook.Skia.Gtk
+{
+}

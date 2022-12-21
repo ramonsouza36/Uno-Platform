@@ -1,0 +1,12 @@
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\ContactBook.iOS.csproj.AssemblyReference.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\ContactBook.iOS.d-btrue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.iOS\obj\iPhoneSimulator\Debug\ContactBook.iOS.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+App.xbf
+Views\AddPersonPage.xbf
+Views\EditPersonPage.xbf
+Views\ListPersonPage.xbf
+Views\MainPage.xbf
+Views\Styles\DictionaryStyles.xbf

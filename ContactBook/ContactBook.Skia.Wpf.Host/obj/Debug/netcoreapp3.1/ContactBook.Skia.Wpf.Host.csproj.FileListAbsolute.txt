@@ -1,0 +1,6 @@
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\ContactBook.Skia.Wpf.Host.csproj.AssemblyReference.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\ContactBook.Skia.Wpf.Host_Content.g.cs
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\ContactBook.Skia.Wpf.Host_MarkupCompile.cache
+C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\ContactBook.Skia.Wpf.Host_MarkupCompile.lref

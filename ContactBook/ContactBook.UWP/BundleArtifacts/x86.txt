@@ -1,0 +1,2 @@
+MainPackage=C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.UWP\bin\x86\Debug\ContactBook.UWP_1.0.0.0_x86_Debug.msix
+SymbolPackage=C:\Users\automatiza\Desktop\Estudos\Uno3\ContactBook\ContactBook.UWP\obj\x86\Debug\Symbols\ContactBook.UWP_1.0.0.0_x86_Debug.appxsym

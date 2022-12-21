@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Uno.Cupertino" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Uno.Cupertino">
+				<NamedResource name="Uno.Cupertino.xr.xml" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Uno.Cupertino.xr.xml">
+					<Candidate type="Path">
+						<Value>Uno.Cupertino\Uno.Cupertino.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assets">
+					<NamedResource name="CupertinoProgressRing.json" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Assets/CupertinoProgressRing.json">
+						<Candidate type="Path">
+							<Value>Uno.Cupertino\Assets\CupertinoProgressRing.json</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="build">
+					<NamedResource name="Uno.Cupertino.targets" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/build/Uno.Cupertino.targets">
+						<Candidate type="Path">
+							<Value>Uno.Cupertino\build\Uno.Cupertino.targets</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Generated">
+					<NamedResource name="mergedpages.xbf" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Generated/mergedpages.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Styles">
+					<ResourceMapSubtree name="Application">
+						<NamedResource name="AnimationConstants.xbf" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Styles/Application/AnimationConstants.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ColorPalette.xbf" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Styles/Application/ColorPalette.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Converters.xbf" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Styles/Application/Converters.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="CupertinoColors.xbf" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Styles/Application/CupertinoColors.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Fonts.xbf" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Styles/Application/Fonts.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="StateConstants.xbf" uri="ms-resource://Uno.Cupertino/Files/Uno.Cupertino/Styles/Application/StateConstants.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

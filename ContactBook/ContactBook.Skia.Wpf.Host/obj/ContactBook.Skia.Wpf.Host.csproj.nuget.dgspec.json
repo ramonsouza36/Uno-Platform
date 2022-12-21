@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf.Host\\ContactBook.Skia.Wpf.Host.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf.Host\\ContactBook.Skia.Wpf.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf.Host\\ContactBook.Skia.Wpf.Host.csproj",
+        "projectName": "ContactBook.Skia.Wpf.Host",
+        "projectPath": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf.Host\\ContactBook.Skia.Wpf.Host.csproj",
+        "packagesPath": "C:\\Users\\automatiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf.Host\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\automatiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Projects\\nuget\\Library": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.WPF\\ContactBook.Skia.WPF.csproj": {
+                "projectPath": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.WPF\\ContactBook.Skia.WPF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Uno.Cupertino": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Uno.Material": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Uno.SQLitePCLRaw.provider.wasm": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.6.19, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[4.6.19, )"
+            },
+            "Uno.UI.Skia.Wpf": {
+              "target": "Package",
+              "version": "[4.6.19, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf\\ContactBook.Skia.Wpf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf\\ContactBook.Skia.Wpf.csproj",
+        "projectName": "ContactBook.Skia.Wpf",
+        "projectPath": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf\\ContactBook.Skia.Wpf.csproj",
+        "packagesPath": "C:\\Users\\automatiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\automatiza\\Desktop\\Estudos\\Uno3\\ContactBook\\ContactBook.Skia.Wpf\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\automatiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Projects\\nuget\\Library": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Uno.Cupertino": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Uno.Material": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Uno.SQLitePCLRaw.provider.wasm": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.6.19, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[4.6.19, )"
+            },
+            "Uno.UI.Skia.Wpf": {
+              "target": "Package",
+              "version": "[4.6.19, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
